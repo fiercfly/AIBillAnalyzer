@@ -1,0 +1,7 @@
+/* App styles are managed in index.css for global consistency */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
